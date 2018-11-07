@@ -2,7 +2,9 @@
 
 ## Date: 24 Oct 2018
 
-## Group Names: Zach Leonardo, Simon Burrows, Andrew Everitt
+## Group Names: Zach Leonardo, Simon Burrows, Andrew Everitt, Chris Cook
+
+Chris joined our group after we came up with the ideas so unfortunately he was not able to participate much initially. Moving forward, we will be incorporating his ideas into the project.
 
 For each of your five ideas, please respond to the following. Each person is to submit a markdown document containing the names of his or her group members.
 
