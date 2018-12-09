@@ -85,14 +85,8 @@ def computer(sum, pile_list):
                         break
                 if c == len(pile_list):
                     y += 1
-        for i in temp_list:
-            if i not in pile_list:
-                value = i
-                print(i)
-                index = temp_list.index(value)
-                diff = pile_list[index] - value
-                print("The computer removed ", diff, " from pile number ",
-                      index + 1, " it is now your turn.")
+        print("The computer removed ", y , " from pile number ", i + 1 ,
+                    " it is now your turn.")
     pile_list = temp_list[:]
     return pile_list
 
